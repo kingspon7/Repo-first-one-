@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Turtle Trading Bot",
+  "description": "An automated crypto trading bot inspired by Richard Dennis's legendary turtle trading strategy. Monitor real-time market data, manage your bot, and track its performance with a professional-grade interface.",
+  "requestFramePermissions": []
+}
